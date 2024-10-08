@@ -1,4 +1,4 @@
-###Token Generator Web Application
+### Token Generator Web Application
 
 This is a PHP-based web application that generates a 6-digit token for users after logging in. The token lasts for 60 seconds, after which it automatically regenerates a new token. The application uses Object-Oriented PHP (OOP), MySQL with PDO for database interactions, and includes a visually animated countdown timer that shows the remaining time before the token is refreshed.
 
