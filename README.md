@@ -4,6 +4,8 @@ A modern, AI-powered web application for generating cryptographically secure tok
 
 ## Features
 
+The features implemented include:
+
 ### Core Generation
 - **Token Generation**: Generate alphanumeric or numeric tokens with customizable length (4-16 characters)
 - **Password Generation**: Create strong passwords with configurable complexity:
